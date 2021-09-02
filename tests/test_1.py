@@ -15,7 +15,7 @@ import datetime
 class DatabaseConfig:
     host: str = "localhost"
     port: int = 5432
-    database: str = "demo"
+    database: str = "kts_hw_db"
     user: Optional[str] = None
     password: Optional[str] = None
 

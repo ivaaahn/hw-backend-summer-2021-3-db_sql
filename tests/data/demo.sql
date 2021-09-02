@@ -1,8 +1,8 @@
-DROP DATABASE demo;
-CREATE DATABASE demo;
+DROP DATABASE kts_hw_db;
+CREATE DATABASE kts_hw_db;
 
 
-\connect demo
+\connect kts_hw_db
 
 
 CREATE TABLE airports_data (
